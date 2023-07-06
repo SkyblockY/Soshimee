@@ -1,2 +1,3 @@
-# HypickleSkyblock
-some kind of skyblock remake lol
+# Hypixel Skyblock
+
+Dulkirs
